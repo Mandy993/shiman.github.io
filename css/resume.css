@@ -52,7 +52,7 @@ p.lead {
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #80ced6;
+  background-color: #;
   /* background-color: #495057; */
   color: #fff !important;
   border-radius: 100%;
@@ -176,29 +176,29 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #80ced6 !important;
+  background-color: #E6B0AA !important;
   /* background-color: #BD5D38 !important; */
 }
 
 .text-primary {
-  color: #80ced6 !important;
+  color: #E6B0AA !important;
   /* color: #BD5D38 !important; */
 }
 
 a {
-  color: #80ced6;
+  color: #E6B0AA;
   /* color: #BD5D38; */
 }
 
 a:hover, a:focus, a:active {
-  /* color: #80ced6; */
+  /* color: #E6B0AA; */
   color: #f18973;
 }
 
 .footer-copyright {
-  color: #80ced6;
+  color: #E6B0AA;
 }
 
 .footer-social-icons {
-  color: #80ced6;
+  color: #E6B0AA;
 }
